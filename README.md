@@ -24,7 +24,7 @@ assuming that you have both python2 and python3 installed. Otherwise use:
 python classify_lsvc.py
 ```
 
-Keep in mind, that you might have to close the plot in exercise 6 for proceeding to print
+Keep in mind, that you might have to close the plot for proceeding to print
 the confusion matrix.
 
 ### Use your own dataset
@@ -36,7 +36,7 @@ label document
 label document
 ```
 
-where *label* coresponds to the class, the document was previously given and *document* represents
+where *label* corresponds to the class, the document was previously given and *document* represents
 a given text. Keep in mind, that your classes should not be over- or underrepresented. 
 
 ## Evaluation
