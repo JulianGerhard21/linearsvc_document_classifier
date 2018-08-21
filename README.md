@@ -60,4 +60,4 @@ that there is no preprocessing like lemmatizing or stopword removal.
 
 ## Author
 
-**Julian Gerhard** - [Mail](mailto:julig86@gmx.de)
+**Julian Gerhard**
